@@ -140,7 +140,7 @@ a:hover {
 }
 .imgOne-container {
   width: 90%;
-  background-image: url("./icons/carousel.webp");
+  background-image: url("icons/carousel.webp");
   height: calc(100vh - 196px);
     display: flex;
     align-items: end;
@@ -165,7 +165,7 @@ a:hover {
 }
 .text-left-img {
   width: 48%;
-  background-image: url("./icons/caoursel2.webp");
+  background-image: url("icons/caoursel2.webp");
   height: calc(100vh - 265px);
   display: flex;
   align-items: baseline;
@@ -184,7 +184,7 @@ a:hover {
 }
 .text-right-img {
   width: 48%;
-  background-image: url("./icons/caoursel2.webp");
+  background-image: url("icons/caoursel2.webp");
   height: calc(100vh - 265px);
   display: flex;
   align-items: baseline;
